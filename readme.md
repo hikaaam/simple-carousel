@@ -13,7 +13,7 @@ features are sliced into different folder :
 
 ---
 
-for animation part i am using Reanimated and Gesture Handler Library. Reanimated provide easy Layout Animation (entering, exiting) without making complex calculation and also can be use to make custom animation
+for animation part i am using Reanimated and Gesture Handler Library. Reanimated provide easy Layout Animation (entering, exiting) without making complex calculation and also can be use to make custom animation for example, i use custom animation to scale the active card from the rest of the list
 
 ---
 
