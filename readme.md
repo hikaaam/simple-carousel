@@ -19,4 +19,4 @@ for animation part i am using Reanimated and Gesture Handler Library. Reanimated
 
 Result :
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/OTRW4m4kVxU)](https://youtu.be/OTRW4m4kVxU)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/OTRW4m4kVxU)](https://www.youtube.com/shorts/OTRW4m4kVxU)
